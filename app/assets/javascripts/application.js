@@ -14,4 +14,4 @@
 //= require activestorage
 //= require turbolinks
 //= require_tree .
-import 'bootstrap';
+// import 'bootstrap';
